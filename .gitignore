@@ -1,0 +1,18 @@
+# Build artifacts
+chip8
+chip8-sdl
+test_core
+*.o
+*.out
+*.exe
+
+# Generated / downloaded ROMs
+demo.ch8
+*.ch8
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
